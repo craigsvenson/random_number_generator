@@ -99,3 +99,7 @@ Without the library:
 - **x86-64:** the client falls back to a pure-Python read, which is safe there.
 - **Other CPUs:** the client stops with an error telling you to build the
   library (`make`), because Python can't add memory barriers itself.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
