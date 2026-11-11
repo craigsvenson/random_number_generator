@@ -1,0 +1,9 @@
+# Build outputs (make)
+random_number_generator
+random_number_client
+librng_seqlock.so
+*.o
+
+# Python
+__pycache__/
+*.pyc
